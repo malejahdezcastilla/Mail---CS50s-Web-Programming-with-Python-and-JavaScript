@@ -1,0 +1,48 @@
+textarea {
+    min-height: 400px;
+}
+.email-preview {
+    border-style: solid;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 10px 10px;
+    border-spacing: 2px;
+    box-sizing: border-box;
+}
+
+#sender {
+    font-weight: bold;
+    width: 30%;
+    display: inline;
+
+}
+
+.read {
+    background-color: #d7d7d7;
+    display: flex;
+    border-bottom: #e4e7ed;
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+}
+
+.unread {
+    background-color: white;
+    display: flex;
+    border-bottom: #e4e7ed;
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+}
+
+.email-detail {
+    font-weight: bold;
+    font-size: 20px;
+    display: inline;
+}
+
+.m-2{
+    font-size: 30px;
+}
+
+.email-d-info{
+    font-size: 20px;
+}
